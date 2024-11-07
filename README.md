@@ -222,4 +222,4 @@ The Active Directory Lab project was done to deepen understanding of Active Dire
 
 ### Next Steps
 
-Potential next steps to take after setting up AD and learning these skills may include making users members of groups, creating and using a PowerShell script to create multiple new users,  or creating and setting up Group Policy Objects (GPOs) to apply to computers, users, and groups
+Potential next steps to take after setting up AD and learning these skills may include making users members of groups, creating and using a PowerShell script to create multiple new users, or creating and setting up <a href="https://github.com/koliman/GPO-Lab">Group Policy Objects (GPOs)</a> to apply to computers and users
